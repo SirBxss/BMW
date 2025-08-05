@@ -1,0 +1,49 @@
+"Title_1,BenennungTeil_1,Programmnummer_1,Laufzeit_1,Kommentar_1,Sachnummer_1,ZI_1,AI_1"
+"2,MD I-TAFEL OBEN RL AZ1 (kein TAISS),20_19
+20_21,?
+18,Kurzprogramm - nur FMK Punkte  
+mit HUD- AZ 1 (Montage Topperpad) - Langprogramm,M T40 070,G,-"
+"4,MD I-TAFEL OBEN RL OP3 (kein TAISS),25,7,OP3 - US-Schweißen (Topperpad + Windlauf + AZV)  NEGATIV-MA,M T40 071,G,-"
+"6,MD I-TAFEL OBEN RL OP5 (kein TAISS),30,nan,OP5 - ZB Blende Windlauf (OP2 + Montage Blende HUD)
+- geänderte Montagereihenfolge - wird momentan nicht benötigt,M T40 072,nan,nan"
+"8,MD I-TAFEL OBEN RL OP2 (kein TAISS),35,nan,OP2 - MD Blende Windlauf (Kaschierte Blende + US-Schweißen Blende FSD)
+- geänderte Montagereihenfolge - wird momentan nicht benötigt,M T40 073,nan,nan"
+"10,MD BLENDE WINDLAUF,40,nan,MD Blende Windlauf ( Blende WDL SG + Kaschiert) (GLEICHTEIL LL/RL),9 490 654,nan,nan"
+"12,BLENDE WDL SG,45,nan,Blende Windlauf Spritzguss (GLEICHTEIL LL/RL),9 873 789,nan,nan"
+"14,MD I-TAFEL OBERTEIL KULE RL A.F.,50_49,11,Kurzprogramm-MFU,9 490 684,Q,-"
+"15,MD I-TAFEL OBERTEIL KULE RL A.F.,50_50,nan,MD I-Tafel Oberteil ( Topperpad + Kaschiert),nan,nan,nan"
+"17,MD I-TAFEL OBEN RL OP1 (kein TAISS),60,5,OP1 - MD I-Tafel Oberteil ( IR-Schweißen Topperpad +Airbagschusskanal) (Wlage)
+NEGATIV-MA,M T40 074,F,-"
+"19,MD I-TAFEL OBEN RL AIRBAGBESCHNITT,65,nan,Wasserstrahlbeschnitt Airbag
+NEGATIV-MA,9 873 780,O,-"
+"21,EINLEGER I-TAFEL OBERTEIL RL,70_69,9,Kurzprogramm-MFU,9 873 780,O,-"
+"22,EINLEGER I-TAFEL OBERTEIL RL,70_70,14,Komplettprogramm - Spritzguss Einleger I-Tafel Oberteil ,nan,nan,nan"
+"24,MD AIRBAGSCHUSSKANAL RL,80_80,4, Spritzguss Airbagschusskanal,9 483 435,M,7"
+"25,MD I-TAFEL UNTEN RL AZ2 (kein TAISS),100_99,8.5,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Kurzprogramm - nur FMK Punkte,M T40 075,F,-"
+"26,MD I-TAFEL UNTEN RL AZ2 (kein TAISS),100_100,30,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Langprogramm,M T40 075,H,-"
+"27,MD I-TAFEL UNTEN RL AZ2 (kein TAISS),100_101,16,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Kurzprogramm - Serie,M T40 075,H,-"
+"28,MD I-TAFEL UNTEN RL AZ2 (kein TAISS),100_105,nan,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Analyse Fuge HSK
+zum Messen Deckel HSK und Einlegematte HSK aubauen!!!!,M T40 075,F,-"
+"30,MD I-TAFEL UNTEN RL OP4 (kein TAISS),120,6,OP4 - MD I-Tafel Unterteil  (US-Schweißen TS BFS + UT + Rahmen HSK),M T40 076,G,-"
+"32,MD I-TAFEL UNTERTEIL RL,130_129
+130_130,14,Kurzprogramm-MFU
+MD I-Tafel Unterteil ( Unterteil + Kaschiert),9 490 686,L,-"
+"34,EINLEGER I-TAFEL UNTERTEIL RL,150_149,nan,Kurzprogramm-MFU,9 873 785,L,-"
+"35,EINLEGER I-TAFEL UNTERTEIL RL,150_150,14,Komplettprogramm - Spritzguss Einleger I-Tafel Unterteil,nan,nan,nan"
+"37,MD TRAGSTUKTUR RL (kein TAISS),155,14,Montage TS FS + TS BFS mit EMV-Blech  (Wlage),MT40077,D,-"
+"39,MD TRAGSTUKTUR BEIFAHRERSEITE RL,160_159,nan,Kurzprogramm-MFU,9 460 571,O,11"
+"40,MD TRAGSTUKTUR BEIFAHRERSEITE RL,160_160,13,Komplettprogramm - SpritzgussTragstruktur Beifahrerseite ,nan,nan,nan"
+"41,MD DECKEL HANDSCHUKASTEN RL,200_200,4,ZB Deckel HSK (Montiert + Geschweißt) (Wlage),9490678,J,6"
+"42,MD DECKEL HANDSCHUKASTEN RL,1200_1200,4,ZB Deckel HSK (Montiert + Geschweißt)  Analyse Schaftantastungen,9490678,E,1"
+"43,MD DECKEL HANDSCHUKASTEN BEHEIZT RL,210_210,4,ZB Deckel HSK (Montiert + Geschweißt) mit Flächenheizung (Wlage),9461539,J,7"
+"45,BEZUG HSK RL,220_220,3,MD Deckel Aussen (SG Aussen + Kaschiert)  (Wlage),9 873 795,C,2"
+"46,BEZUG HSK RL,1220_1220,nan,MD Deckel Aussen (SG Aussen + Kaschiert)  Analyse Schaftantastungen,9 873 795,C,2"
+"47,BEZUG HSK BEHEIZT  RL,225_225,3,MD Deckel Aussen (SG Aussen + Kaschiert)  mit Flächenheizung  (Wlage),9 623 592,E,2"
+"49,DECKEL HSK INNEN SG RL,230_230,3,Spritzguss Deckel Innen (Wlage),9 873 794,K,-"
+"51,DECKEL HSK AUSSEN SG RL,240_240,3,Spritzguss Deckel Aussen  (Wlage),9 873 796,J,4"
+"52,DECKEL HSK AUSSEN SG RL,1240_1240,3,Spritzguss Deckel Aussen  Analyse Schaftantastungen,9 873 796,J,4"
+"55,SGW_SCHUSSKANAL_RL_I20,2010,GOM,Netzschwert und Netzpositionierung,3006218,X,X"

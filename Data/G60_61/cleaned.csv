@@ -1,54 +1,66 @@
-Title_1,BenennungTeil_1,Programmnummer_1,Laufzeit_1,Kommentar_1,Sachnummer_1,ZI_1,AI_1
-2,MD I-TAFEL KPL. LL A.F. Aufbaubock,0100_0100,11,"Aufbaubock
-(MD IT oben + MD IT unten)",MT40115,U,--
-4,MD I-TAFEL OBEN LL A.F.,0105_0105,20,Auslieferzustand  HUD (Serie+Prozess),MT40107,U,--
-5,MD I-TAFEL OBEN LL A.F.,0105_0106,18,Auslieferzustand  BASIS (Serie+Prozess),,,
-6,MD I-TAFEL OBEN LL A.F.,0105_0110,11,Auslieferzustand  HUD (Serie),,,
-7,MD I-TAFEL OBEN LL A.F.,0105_0111,10,Auslieferzustand  BASIS (Serie),,,
-9,MD I-TAFEL OBEN BASIS LL A.F. mit WLK,0110_0110,4,"OP2: VIB-Schweissen
-(MD IT oben + Warmluftkanal)",MT40105,U,--
-11,MD I-TAFEL OBEN HUD BASIS LL A.F.,0115_0115,4,Stanzen HUD-Ausschnitt,9625181,U,13
-13,MD I-TAFEL OBEN BASIS LL A.F.,0120_0120,14,"Presskaschiert  (Serie+Prozess)
-(Traeger IT oben + Bespannung IT oben)",9625171,U,13
-14,MD I-TAFEL OBEN BASIS LL A.F.,0120_0121,???,"Presskaschiert  (Serie)
-(Traeger IT oben + Bespannung IT oben)",,,
-16,ZB TRAEGER I-TAFEL OBEN LL mit Airbag,0125_0120,11,"OP1: VIB-Schweissen  (Serie)
-(Traeger IT oben + Airbag Schusskanal)",MT40103,U,--
-17,ZB TRAEGER I-TAFEL OBEN LL mit Airbag,0125_0125,16,"OP1: VIB-Schweissen  (Serie+Prozess)
-(Traeger IT oben + Airbag Schusskanal)",,,
-19,ZB TRAEGER I-TAFEL OBEN BASIS LL,0130_0130,13,SGI-Spritzguss  (Serie+Prozess),9631001,U,13
-20,ZB TRAEGER I-TAFEL OBEN BASIS LL,0130_0131,7,SGI-Spritzguss  (Serie),,,
-22,MD WARMLUFTKANAL LL,0135_0135,6,SGI-Spritzguss  (Serie+Prozess),9625223,Q,9
-23,MD WARMLUFTKANAL LL,0135_0136,3,SGI-Spritzguss  (Serie),,,
-25,MD AIRBAG SCHUSSKANAL LL,0140_0140,9,Spritzguss  (Serie+Prozess),9625196,Q,13
-26,MD AIRBAG SCHUSSKANAL LL,0140_0141,5,Spritzguss  (Serie),,,
-27,MD AIRBAG SCHUSSKANAL LL,0145,,S4-Merkmal: Schlaufenlaenge Airbagnetz  (mittels Messschieber),,,
-31,MD I-TAFEL UNTEN LL A.F.,0150_0150,23,"Auslieferzustand  HUD (Serie+Prozess)
-(Montage: MD IT unten verschweisst + Tragstruktur FS HUD + HSK)",MT40113,U,--
-32,MD I-TAFEL UNTEN LL A.F.,0150_0151,,"Auslieferzustand  BASIS (Serie+Prozess)  // 10.04.2024: Entfall Variante Basis
-(Montage: MD IT unten verschweisst + Tragstruktur FS BASIS + HSK)",,,
-33,MD I-TAFEL UNTEN LL A.F.,0150_0160,14,"Auslieferzustand  HUD (Serie)
-(Montage: MD IT unten verschweisst + Tragstruktur FS HUD + HSK)",,,
-34,MD I-TAFEL UNTEN LL A.F.,0150_0161,,"Auslieferzustand  BASIS (Serie)  // 10.04.2024: Entfall Variante Basis
-(Montage: MD IT unten verschweisst + Tragstruktur FS BASIS + HSK)",,,
-36,MD I-TAFEL UNTEN LL A.F. ohne HSK,0152_0152,5,Einbauposition HSK (in lokaler Ausrichtung),MT40111,U,--
-38,MD I-TAFEL UNTEN LL A.F. verschweisst,0155_0155,23,"OP3: US-Schweissen  (Serie+Prozess)
-(MD IT unten + Tragstruktur BFS)",MT40109,U,--
-39,MD I-TAFEL UNTEN LL A.F. verschweisst,0155_0156,???,"OP3: US-Schweissen  (Serie)
-(MD IT unten + Tragstruktur BFS)",,,
-41,MD I-TAFEL UNTEN LL A.F.,0160_0160,14,"Presskaschiert  (Serie+Prozess)
-(Traeger IT unten + Bespannung IT unten)",9625194,U,11
-42,MD I-TAFEL UNTEN LL A.F.,0160_0161,???,"Presskaschiert  (Serie)
-(Traeger IT unten + Bespannung IT unten)",,,
-44,ZB TRAEGER I-TAFEL UNTEN LL,0170_0170,21,SGI-Spritzguss  (Serie+Prozess),9630694,U,11
-45,ZB TRAEGER I-TAFEL UNTEN LL,0170_0171,7,SGI-Spritzguss  (Serie),,,
-48,MD DECKEL HSK BEFLOCKT LL A.F.,0200_0200,3,Einbauzustand für I-Tafel  (Serie),5A12EC9,S,10
-49,MD DECKEL HSK BEFLOCKT LL A.F.,0200_0210,5,"HE-Schweissen  (Serie+Prozess)
-(Deckel innen + Deckel aussen)",,,
-51,ZB DECKEL HSK AUSSEN KASCHIERT LL A.F.,0220_0220,3,"Presskaschiert  (Serie+Prozess)
-(Traeger Deckel aussen + Besp. Deckel aussen)",5A38EA0,S,7
-53,TRAEGER DECKEL HSK AUSSEN LL,0230_0230,3,Spritzguss  (Serie+Prozess),9631021,S,7
-55,TRAEGER DECKEL HSK INNEN LL,0240_0240,4,Spritzguss  (Serie+Prozess),9631023,S,11
-117,Airbagschusskanal,1000_1000,,Schweissversuch auf Basis G11,,,
-177,SGW_G60_IT_OBEN_LL,2000,,Airbagschwächung (SPIAS),3040131,X,X
-179,SGW_G60_SCHUSSKANAL_LL,2010,,Netzschwert und Netzpositionierung,3040137,X,X
+"Title_1,BenennungTeil_1,Programmnummer_1,Laufzeit_1,Kommentar_1,Sachnummer_1,ZI_1,AI_1"
+"2,MD I-TAFEL KPL. LL A.F. (Aufbaubock),0100_0100,11,Aufbaubock
+(MD IT oben + MD IT unten),MT40115,U,--"
+"4,MD I-TAFEL OBEN LL A.F.  (Auslieferzustand),0105_0105,20,Auslieferzustand  HUD (Serie+Prozess),MT40107,U,--"
+"5,MD I-TAFEL OBEN LL A.F.  (Auslieferzustand),0105_0106,18,Auslieferzustand  BASIS (Serie+Prozess),nan,nan,nan"
+"6,MD I-TAFEL OBEN LL A.F.  (Auslieferzustand),0105_0110,11,Auslieferzustand  HUD (Serie),nan,nan,nan"
+"7,MD I-TAFEL OBEN LL A.F.  (Auslieferzustand),0105_0111,10,Auslieferzustand  BASIS (Serie),nan,nan,nan"
+"9,MD I-TAFEL OBEN BASIS LL A.F. mit WLK,0110_0110,4,OP2: VIB-Schweissen
+(MD IT oben + Warmluftkanal),MT40105,U,--"
+"11,MD I-TAFEL OBEN HUD BASIS LL A.F. (stanzen),0115_0115,4,Stanzen HUD-Ausschnitt,9625181,U,13"
+"13,MD I-TAFEL OBEN BASIS LL A.F.  (kaschiert),0120_0120,14,Presskaschiert  (Serie+Prozess)
+(Traeger IT oben + Bespannung IT oben),9625171,U,13"
+"14,MD I-TAFEL OBEN BASIS LL A.F.  (kaschiert),0120_0121,???,Presskaschiert  (Serie)
+(Traeger IT oben + Bespannung IT oben),nan,nan,nan"
+"16,ZB TRAEGER I-TAFEL OBEN LL mit Airbag,0125_0120,11,OP1: VIB-Schweissen  (Serie)
+(Traeger IT oben + Airbag Schusskanal),MT40103,U,--"
+"17,ZB TRAEGER I-TAFEL OBEN LL mit Airbag,0125_0125,16,OP1: VIB-Schweissen  (Serie+Prozess)
+(Traeger IT oben + Airbag Schusskanal),nan,nan,nan"
+"19,ZB TRAEGER I-TAFEL OBEN BASIS LL,0130_0130,13,SGI-Spritzguss  (Serie+Prozess),9631001,U,13"
+"20,ZB TRAEGER I-TAFEL OBEN BASIS LL,0130_0131,7,SGI-Spritzguss  (Serie),nan,nan,nan"
+"22,MD WARMLUFTKANAL LL,0135_0135,6,SGI-Spritzguss  (Serie+Prozess),9625223,Q,9"
+"23,MD WARMLUFTKANAL LL,0135_0136,3,SGI-Spritzguss  (Serie),nan,nan,nan"
+"25,MD AIRBAG SCHUSSKANAL LL,0140_0140,9,Spritzguss  (Serie+Prozess),9625196,Q,13"
+"26,MD AIRBAG SCHUSSKANAL LL,0140_0141,5,Spritzguss  (Serie),nan,nan,nan"
+"27,MD AIRBAG SCHUSSKANAL LL,0145,nan,S4-Merkmal: Schlaufenlaenge Airbagnetz  (mittels Messschieber),nan,nan,nan"
+"31,MD I-TAFEL UNTEN LL A.F.  (Auslieferzustand),0150_0150,23,Auslieferzustand  HUD (Serie+Prozess)
+(Montage: MD IT unten verschweisst + Tragstruktur FS HUD + HSK),MT40113,U,--"
+"32,MD I-TAFEL UNTEN LL A.F.  (Auslieferzustand),0150_0151,nan,Auslieferzustand  BASIS (Serie+Prozess)  // 10.04.2024: Entfall Variante Basis
+(Montage: MD IT unten verschweisst + Tragstruktur FS BASIS + HSK),nan,nan,nan"
+"33,MD I-TAFEL UNTEN LL A.F.  (Auslieferzustand),0150_0160,14,Auslieferzustand  HUD (Serie)
+(Montage: MD IT unten verschweisst + Tragstruktur FS HUD + HSK),nan,nan,nan"
+"34,MD I-TAFEL UNTEN LL A.F.  (Auslieferzustand),0150_0161,nan,Auslieferzustand  BASIS (Serie)  // 10.04.2024: Entfall Variante Basis
+(Montage: MD IT unten verschweisst + Tragstruktur FS BASIS + HSK),nan,nan,nan"
+"36,MD I-TAFEL UNTEN LL A.F. ohne HSK,0152_0152,5,Einbauposition HSK (in lokaler Ausrichtung),MT40111,U,--"
+"38,MD I-TAFEL UNTEN LL A.F. verschweisst,0155_0155,23,OP3: US-Schweissen  (Serie+Prozess)
+(MD IT unten + Tragstruktur BFS),MT40109,U,--"
+"39,MD I-TAFEL UNTEN LL A.F. verschweisst,0155_0156,???,OP3: US-Schweissen  (Serie)
+(MD IT unten + Tragstruktur BFS),nan,nan,nan"
+"41,MD I-TAFEL UNTEN LL A.F.  (kaschiert),0160_0160,14,Presskaschiert  (Serie+Prozess)
+(Traeger IT unten + Bespannung IT unten),9625194,U,11"
+"42,MD I-TAFEL UNTEN LL A.F.  (kaschiert),0160_0161,???,Presskaschiert  (Serie)
+(Traeger IT unten + Bespannung IT unten),nan,nan,nan"
+"44,ZB TRAEGER I-TAFEL UNTEN LL,0170_0170,21,SGI-Spritzguss  (Serie+Prozess),9630694,U,11"
+"45,ZB TRAEGER I-TAFEL UNTEN LL,0170_0171,7,SGI-Spritzguss  (Serie),nan,nan,nan"
+"48,MD DECKEL HSK BEFLOCKT LL A.F.,0200_0200,3,Einbauzustand für I-Tafel  (Serie),5A12EC9,S,10"
+"49,MD DECKEL HSK BEFLOCKT LL A.F.,0200_0210,5,HE-Schweissen  (Serie+Prozess)
+(Deckel innen + Deckel aussen),nan,nan,nan"
+"51,ZB DECKEL HSK AUSSEN KASCHIERT LL A.F.,0220_0220,3,Presskaschiert  (Serie+Prozess)
+(Traeger Deckel aussen + Besp. Deckel aussen),5A38EA0,S,7"
+"53,TRAEGER DECKEL HSK AUSSEN LL,0230_0230,3,Spritzguss  (Serie+Prozess),9631021,S,7"
+"55,TRAEGER DECKEL HSK INNEN LL,0240_0240,4,Spritzguss  (Serie+Prozess),9631023,S,11"
+"59,MD I-TAFEL KPL. LL LCI A.F. (Aufbaubock),0600_0600,nan,Aufbaubock (MD IT oben + MD IT unten),MT40215,nan,nan"
+"61,MD I-TAFEL OBEN LL LCI A.F.  (Auslieferzustand),0605_0605,nan,Auslieferzustand,MT40207,G,nan"
+"63,MD I-TAFEL OBEN BASIS LL LCI A.F. mit WLK,0610_0610,nan,OP2: VIB-Schweissen (MD IT oben + Warmluftkanal),MT40205,G,nan"
+"65,MD I-TAFEL OBEN BASIS LL LCI A.F.  (kaschiert),0620_0620,nan,Presskaschiert (Traeger IT oben + Bespannung IT oben),9645273,nan,nan"
+"67,ZB TRAEGER I-TAFEL OBEN LL LCI mit Airbag,0625_0625,nan,OP1: VIB-Schweissen (Traeger IT oben + Airbag Schusskanal),MT40203,G,nan"
+"69,ZB TRAEGER I-TAFEL OBEN BASIS LL LCI,0630_0630,nan,SGI-Spritzguss,9645274,G,nan"
+"71,MD WARMLUFTKANAL LL LCI,0635_0635,nan,SGI-Spritzguss,9645251,G,nan"
+"73,MD AIRBAG SCHUSSKANAL LL LCI,0640_0640,nan,Spritzguss,9645297,H,nan"
+"81,MD I-TAFEL UNTEN LL LCI A.F.  (Auslieferzustand),0650_0650,nan,Auslieferzustand,MT40213,nan,nan"
+"85,MD I-TAFEL UNTEN LL LCI A.F. verschweisst,0655_0655,nan,OP3: US-Schweissen (MD IT unten + Tragstruktur BFS),MT40209,nan,nan"
+"87,MD I-TAFEL UNTEN LL LCI A.F.  (kaschiert),0660_0660,nan,Presskaschiert (Traeger IT unten + Bespannung IT unten),9645289,nan,nan"
+"89,ZB TRAEGER I-TAFEL UNTEN LL LCI,0670_0670,nan,SGI-Spritzguss,9645290,G,nan"
+"95,Airbagschusskanal,1000_1000,nan,Schweissversuch auf Basis G11,nan,nan,nan"
+"155,SGW_G60_IT_OBEN_LL,2000,nan,Airbagschwächung (SPIAS),3040131,X,X"
+"157,SGW_G60_SCHUSSKANAL_LL,2010,nan,Netzschwert und Netzpositionierung,3040137,X,X"

@@ -1,0 +1,229 @@
+Unnamed: 0,Unnamed: 1,Unnamed: 2,Übersicht G70_71,Unnamed: 4,Unnamed: 5,Unnamed: 6,Unnamed: 7,Serienprogramm,Unnamed: 9,Unnamed: 10,Unnamed: 11
+,,,,,,,,,,,
+"CNC / 
+Analyse","Programmnr.-
+Reichweite",Baugruppe,Benennung Teil (TAISS),"Formfeature
+BM-x","Werkstück_
+Programmnummer","Laufzeit 
+in min",KMG,Kommentar,SACHNR.,ZI,AI
+,,,,,,,,,,,
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD TRAGSTRUKTUR BFS LL,,0010_0010,27,,Tragstruktur Beifahrerseite       Komplettmessung,7911166,D,2
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD TRAGSTRUKTUR BFS LL,,0012_0012,12,,Tragstruktur Beifahrerseite      ,7911166,J,6
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD TRAGSTRUKTUR BFS LL,,0015_0015,4,,Montage MD Tragstruktur BFS mit MD Tragstruktur FS (ANALYSE),7911166,D,2
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD TRAGSTRUKTUR BFS LL,,0016_0016,5,,"Montage MD Tragstruktur BFS, MD Tragstruktur FS, IT Unten Teil vom Musterbau, (ANALYSE)",7911166,D,2
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD TRAGSTRUKTUR BFS LL,,0020_0020,35,,MD I-Tafel unten kompl. ,7911166,D,2
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD AIRBAG SCHUSSKANAL LL,"R699
+BM-S",0030_0030,8,,Spritzteil,9870297,N,10
+,,,,,0035,,,S4-Merkmal: Schlaufenlaenge Airbagnetz  (mittels Messschieber),,,
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD WARMLUFTKANAL LL,,0050_0050,,,Spritzteil,9870295,J,7
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD I-TAFEL OBEN  LL A.F.,,0065_0065,,,Träger I-Tafel oben kaschiert,9870291,Q,12
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD I-TAFEL OBEN  LL A.F. ,,0066_0066,8,,Auslieferzustand,-------,-,-
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD I-TAFEL KPL LL A.F.,,0068_0068,45,,IT Oben und IT Unten zusammen auf der Messaufnahme,-------,-,-
+C,1-199,Instrumententafel,MD I-TAFEL KPL LL A.F.,,0068 Calibri,,,Fuge HSK mit Calibri,-------,-,-
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL OBEN LL ,"R699
+BM-S",0070_0070,12,,OP1 Schweissung (ZB Traeger IT oben mit Airbagschusskanal),-------,-,-
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL OBEN LL,BM-S,0075_0075,4,,OP2 Schweissung (MD IT Oben  mit Warmluftkanal),-------,-,-
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL OBEN LL,,0080_0080,8,,Spritzteil,9870904,N,12
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL UNTEN LL,,0090_0090,8,,Spritzteil ; Kontur,9870914,O,10
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB I-TAFEL UNTEN LL A.F.,,0091_0091,,,Träger (Spritzteil) kaschiert,9870299,T,14
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB I-TAFEL UNTEN LL A.F.,,0092_0092,,,MD Tragstruktur BFS mit I-Tafel Unten kaschiert verschweisst,-------,-,-
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,MD I-TAFEL UNTEN LL A.F.,BM-S,0093_0093,18,,Auslieferzustand,-------,-,-
+C,1-199,Instrumententafel,MD I-TAFEL UNTEN LL A.F.,,0093 Calibri,,,Fuge HSK mit Calibri,,,
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL UNTEN FLHZG LL,,0095_0095,8,,Spritzteil; Kontur,9624605,O,10
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB I-TAFEL UNTEN FLHZG LL A.F.,,0096_0096,,,Träger (Spritzteil) kaschiert,9624197,T,16
+C,1-199,Instrumententafel,,,,,,,,,
+C,1-199,Instrumententafel,ZB TRAEGER I-TAFEL UNTEN LL,,0099_0099,33,,Analyse Positionen der Schweissdome,9621605,F,1
+,,,,,,,,,,,
+C,200-299,Handschuhkasten,EINLEGER DECKEL HSK LL,,0100_0100,,,Spritzteil Einleger Deckel HSK,5A34240,L,5
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,EINLEGER DECKEL HSK FLHZG LL,,0105_0105,,,Spritzteil Einleger Deckel HSK mit Flächenheizung ,5A34244,F,5
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,ZB DECKEL KASCHIERT LL A.F.,,0110_0110,2,,Deckel HSK Aussen kaschiert,9870940,N,9
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,ZB DECKEL KASCHIERT FLHZG LL A.F.,,0115_0115,,,Deckel HSL Aussen Flächenheizung kaschiert,5A0E575,R,11
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,DECKEL HSK INNEN LL,,0120_0120,,,Deckel HSK Innen Spritzteil,9870943,M,9
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,MD DECKEL HSK BEFLOCKT LL A.F.,,0130_0130,2,,"Deckel HSK Innen und Aussen kaschiert, verschweisst",9870496,S,13
+C,200-299,Handschuhkasten,,,,,,,,,
+C,200-299,Handschuhkasten,MD DECKEL HSK BEFLOCKT FLHZG LL A.F.,,0135_0135,2,,"Deckel HSK Innen und Aussen kaschiert Flächenheizung, verschweisst",5A0BD23,S,15
+C,200-299,Handschuhkasten,,,,,,,,,
+,,LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL OBEN LL LCI,,0300_0300,,,Spritzteil,9643827,F,2
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD AIRBAGSCHUSSKANAL LL LCI,"R699
+BM-S",0305_0305,,,Spitzteil,9639973,F,4
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL OBEN LL LCI,"R699
+BM-S",0310_0310,,,OP1,MT40170,C,-
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL OBEN LL LCI,,0315_0315,,,kaschiert,MT40173,A,
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD WARMLUFTKANAL LL LCI,,0320_0320,,,Spritzteil,5A8BBD7,J,4
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD I-TAFEL OBEN LL LCI A.F.,,0325_0325,,,OP2,MT40171,A,-
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD I-TAFEL OBEN PVC LL LCI A.F.,,0330_0330,,,Auslieferteil,MT40172,A,-
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD TRAGSTRUKTUR BFS LL LCI,BM-F,0335_0335,,,Spitzteil,9639963,H,2
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL UNTEN LL LCI,BM-F,0340_0340,,,Spitzteil,9643846,F,2
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB  I-TAFEL UNTEN LL LCI,,0345_0345,,,kaschiert,MT40180,A,-
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB I-TAFEL UNTEN LL LCI,,0350_0350,,,verschweisst mit Tragstruktur,MT40181,A,-
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD I-TAFEL UNTEN PVC LL LCI A.F.,BM-S F,0355_0355,,,Auslieferteil,MT40182,B,
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL UNTEN FLHZG LL LCI,,0360_0360,,,Spritzteil,9643847,J,5
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB TRAEGER I-TAFEL UNTEN FLHZG PVC LL LCI,,0365_0365,,,kaschiert,,,
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,ZB I-TAFEL UNTEN FLHZG LL LCI,,0370_0370,,,verschweisst,,,
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD I-TAFEL U.FLHZG PVC LL AG LCI A.F.,,0375_0375,,,Auslieferteil,,,
+C,300-399,Instrumententafel LCI,,,,,,,,,
+C,300-399,Instrumententafel LCI,MD I-TAFEL KPL. LL LCI A.F.,,0390_0390,,,IT Oben und IT Unten zusammen auf der Messaufnahme montiert,,,
+,,,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+C, 500-599,Heckend,,,,,,,,,
+,,,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+C, 600-699,Türen,,,,,,,,,
+,,,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+C, 700-799,noch zu haben,,,,,,,,,
+,,,,,,,,,,,
+C,800-999,Umfang CFK,GEHAEUSE OT LI SP56 B,,880_880,7,3 / H8,"Geometrie + Wandstärke
+Achtung: Ohne Messaufnahme / Sonderaufbau (s. Spannplan)",2772492,C,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,GEHAEUSE OT RE SP56 B,,890_890,7,3 / H8,"Geometrie + Wandstärke
+Achtung: Ohne Messaufnahme / Sonderaufbau (s. Spannplan)",2772493,C,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+C,800-999,Umfang CFK,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+A,1000-1199,Instrumententafel,ZB TRAEGER I-TAFEL OBEN LL ,,1070,10,,OP1 Schweissung (ZB Traeger IT oben mit Airbagschusskanal) Analysemessprgramm,MT40092,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+A,1000-1199,Instrumententafel,,,,,,,,,
+,,,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+A,1200-1299,Handschuhkasten,,,,,,,,,
+,,,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+A,1300-1399,Mittelkonsole,,,,,,,,,
+,,,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+A, 1400-1499,Frontend,,,,,,,,,
+,,,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+A, 1500-1599,Heckend,,,,,,,,,
+,,,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+A, 1600 - 1699,Türen,,,,,,,,,
+,,,,,,,,,,,
+A,2000-2099,Werkzeug,SGW_G70_EINLEGER_IT_oben_LL,,2000,,GOM,Airbagschwächung (SPIAS),3010833,X,X
+A,2000-2099,Werkzeug,SGW_Spias EINLEGER OBEN LL / G70 LCI LL,,2001,,GOM,Spias - Bleche,3052186,X,X
+A,2000-2099,Werkzeug,SG-WZ_SCHUSSKANAL_LL,,2010,,GOM,Netzschwert und Netzpositionierung,3010871,X,X
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,
+A,2000-2099,Werkzeug,,,,,,,,,

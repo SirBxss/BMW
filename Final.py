@@ -1,7 +1,7 @@
 import pandas as pd
 
 # Load the dataset
-file_path = '/Users/amin/PycharmProjec/BMW/Data/I20/output.csv'
+file_path = '/Users/amin/PycharmProject/BMW/Data/I20_RL/output.csv'
 data = pd.read_csv(file_path)
 
 # Step 1: Set new column headers from the second row (index 1)
@@ -52,7 +52,7 @@ merged_data += data_cleaned.astype(str).apply(lambda row: ",".join(row), axis=1)
 final_data = pd.DataFrame(merged_data, columns=["Column1"])
 
 # Step 10: Save the final dataset to a new CSV file
-output_path = '/Users/amin/PycharmProjec/BMW/Data/I20/cleaned.csv'
+output_path = '/Users/amin/PycharmProject/BMW/Data/I20_RL/Cleaned/Inhalt_I20RL.csv'
 final_data.to_csv(output_path, index=False, header=False)
 
 # Display a preview of the final merged data

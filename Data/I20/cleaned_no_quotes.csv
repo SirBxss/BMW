@@ -1,0 +1,150 @@
+Title_1,BenennungTeil_1,Programmnummer_1,Laufzeit_1,Kommentar_1,Sachnummer_1,ZI_1,AI_1
+1,AUFBAUBOCK - TRAVERSE (kein TAISS),X,X,Hinweise zum Aufbau - FM-Nr.: 3A7C375,nan,nan,nan
+2,MD I-TAFEL OBEN LL AZ1 (kein TAISS),20_19
+20_20
+20_21,?
+18
+18,Kurzprogramm - nur FMK Punkte  (Wlage)
+ohne  HUD - AZ 1 (Montage Topperpad) - Langprogramm
+mit  HUD - AZ 1 (Montage Topperpad) - Langprogramm,M T40 060,L,-
+4,MD I-TAFEL OBEN LL OP3 (kein TAISS),25_25,7,OP3 - US-Schweißen (Topperpad + Windlauf + AZV)  NEGATIV-MA  (Wlage),M T40 061,I,-
+6,MD I-TAFEL OBEN LL OP5 (kein TAISS),30_30,nan,OP5 - ZB Blende Windlauf (OP2 + Montage Blende HUD)
+Kann nicht gemessen werden, Messaufnahme nicht auf Stand!!
+Siehe Meßprotokoll 1780/21 und 16/22.,M T40 062,D,-
+8,MD I-TAFEL OBEN LL OP2 (kein TAISS),35_35,nan,OP2 - MD Blende Windlauf (Kaschierte Blende + US-Schweißen Blende FSD) (GLEICHTEIL LL/RL),M T40 063,F,-
+10,MD BLENDE WINDLAUF,40_40,5,MD Blende Windlauf ( Blende WDL SG + Kaschiert) (GLEICHTEIL LL/RL),9 490 654,K,8
+12,BLENDE WDL SG,45_44,5,Kurzprogramm - MFU,9 873 789,K,8
+13,BLENDE WDL SG,45_45,nan,Blende Windlauf Spritzguss (GLEICHTEIL LL/RL) (Wlage),nan,nan,nan
+14,MD I-TAFEL OBERTEIL KULE LL A.F.,50_49,11,Kurzprogramm-MFU,9 490 683,V,14
+15,MD I-TAFEL OBERTEIL KULE LL A.F.,50_50,nan,MD I-Tafel Oberteil ( Topperpad + Kaschiert) (Wlage),nan,nan,nan
+17,MD I-TAFEL OBEN LL OP1 (kein TAISS),60_60,5,OP1 - MD I-Tafel Oberteil ( IR-Schweißen Topperpad +Airbagschusskanal) (Wlage)
+NEGATIV-MA,M T40 064,I,-
+19,EINLEGER  I-TAFEL OBERTEIL LL
+AIRBAGBESCHNITT  (kein TAISS),65_65,nan,Wasserstrahlbeschnitt Airbag
+NEGATIV-MA,9 873 777,S,14
+21,EINLEGER I-TAFEL OBERTEIL LL,70_69,9,Kurzprogramm-MFU ,9 873 777,S,14
+22,EINLEGER I-TAFEL OBERTEIL LL,70_70,14,Komplettprogramm - Spritzguss Einleger I-Tafel Oberteil (Wlage),nan,nan,nan
+24,MD AIRBAGSCHUSSKANAL LL,80_80,4, Spritzguss Airbagschusskanal     (Wlage),9 483 434,O,8
+25,MD I-TAFEL UNTEN LL AZ2 (kein TAISS),100_99,8.5,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Kurzprogramm - nur FMK Punkte,M T40 065,I,-
+26,MD I-TAFEL UNTEN LL AZ2 (kein TAISS),100_100,29,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK) Langprogramm,M T40 065,J,-
+27,MD I-TAFEL UNTEN LL AZ2 (kein TAISS),100_101,16,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK) Kurzprogramm - Serie mit HUD,M T40 065,J,-
+28,MD I-TAFEL UNTEN LL AZ2 (kein TAISS),100_102,16,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK) Kurzprogramm - Serie ohne HUD,M T40 065,J,-
+29,MD I-TAFEL UNTEN LL AZ2 (kein TAISS),100_105,nan,Auslieferzustand 2 (Montage MD IT-Unten + TS FS Mg-Teil + MD HSK)
+Analyse Fuge HSK
+zum Messen Deckel HSK und Einlegematte HSK aubauen!!!!,M T40 065,H,-
+31,MD I-TAFEL UNTEN LL OP4 (kein TAISS),120_119
+120_120,6,Kurzprogramm-MFU
+OP4 - MD I-Tafel Unterteil  (US-Schweißen TS BFS + UT + Rahmen HSK),M T40 066,H,-
+33,MD I-TAFEL UNTERTEIL LL,130_129
+130_130,14,Kurzprogramm-MFU
+MD I-Tafel Unterteil ( Unterteil + Kaschiert) (WLAGE),9 490 685,O,11
+35,EINLEGER I-TAFEL UNTERTEIL LL,150_149,nan,Kurzprogramm-MFU,9 873 782,O,11
+36,EINLEGER I-TAFEL UNTERTEIL LL,150_150,14,Komplettprogramm - Spritzguss Einleger I-Tafel Unterteil (WLAGE),nan,nan,nan
+38,MD TRAGSTRUKTUR LL (kein TAISS),155_155,14,Montage (Tragstruktur FS und BFS verschraubt) ANALYSE,M T40 067,F,nan
+40,MD TRAGSTRUKTUR BEIFAHRERSEITE LL,160_159,nan,Kurzprogramm-MFU,9 460 570,P,11
+41,MD TRAGSTRUKTUR BEIFAHRERSEITE LL,160_160,13,Komplettprogramm - SpritzgussTragstruktur Beifahrerseite (WLAGE),nan,nan,nan
+42,MD DECKEL HANDSCHUKASTEN LL,200_200,5,ZB Deckel HSK (Montiert + Geschweißt) (Wlage),9 490 677,M,9
+43,MD DECKEL HANDSCHUKASTEN LL,1200_1200,5,ZB Deckel HSK (Montiert + Geschweißt) Analyse Schaftantastungen,9 490 677,I,1
+44,MD DECKEL HANDSCHUKASTEN  BEHEIZT LL,210_210,5,ZB Deckel HSK Beheizt (Montiert + Geschweißt) (Wlage),9 461 538,L,10
+46,BEZUG HSK LL,220_220,3,MD Deckel Aussen (SG Aussen + Kaschiert) (Wlage),9 873 793,F,3
+47,BEZUG HSK LL,1220_1220,nan,MD Deckel Aussen (SG Aussen + Kaschiert) Analyse Schaftantastungen,9 873 793,F,3
+48,BEZUG HSK BEHEIZT LL,225_225,3,MD Deckel Aussen Beheizt (SG Aussen + Kaschiert) (Wlage),9 623 373,F,3
+50,DECKEL HSK INNEN SG LL,230_230,3,Spritzguss Deckel Innen  (Wlage),9 873 792,M,10
+52,DECKEL HSK AUSSEN LL,240_240,3,Spritzguss Deckel Aussen (Wlage),9 873 797,K,6
+53,DECKEL HSK AUSSEN LL,1240_1240,3,Spritzguss Deckel Aussen Analyse Schaftantastungen,9 873 797,K,6
+54,ZB TRAGSTRUKTUR LL VORABCOCKPIT,180,21,ZB,2727956,-,-
+55,ZB TRAGSTRUKTUR LL VORABCOCKPIT,185,9,Einzelteil PP-GF,2727956,-,-
+56,ZB TRAGSTRUKTUR LL VORABCOCKPIT ,190,nan,Einzelteil Magnesium von Fa. GSD, CH,2727956,-,-
+58,ZB ZIERBLENDE FRONT M. HEIZUNG,445_445,7,Spritzguss  (ungespannt),8499606,C,2
+59,ZB ZIERBLENDE FRONT M. HEIZUNG,445_455,7,Spritzguss (gespannt ),8499606,C,2
+60,ZB ZIERBLENDE FRONT M. HEIZUNG,445_459,15,Spritzguss (ungespannt) mit zusätzlichen Oberflächenpunkten,8499606,C,2
+63,ZB ZIERBLENDE FRONT M. HEIZUNG SILBER
+(Nur zur Info/Programmierung - wird in Landshut nicht gemessen),450_450
+450_451,8,Auslieferzustand PO (mit Kantenversiegelung) / Ungespannt
+Auslieferzustand PO (mit Kantenversiegelung) / Gespannt,8499606,K,10
+64,ZB ZIERBLENDE FRONT M. HEIZUNG SILBER
+(Nur zur Info/Programmierung - wird in Landshut nicht gemessen),450_452
+450_453,10,Auslieferzustand PO (mit Kantenversiegelung) + Prozess / Ungespannt
+Auslieferzustand PO (mit Kantenversiegelung) + Prozess / Gespannt,8499606,K,10
+66,ZB ZIERBLENDE FRONT M. HEIZUNG SILBER,455_455
+455_456,8,Auslieferzustand LA (mit Kantenversiegelung) / Ungespannt
+Auslieferzustand LA  (mit Kantenversiegelung) / Gespannt,5A0E039,K,10
+67,ZB ZIERBLENDE FRONT M. HEIZUNG SILBER,455_457
+455_458,10,Auslieferzustand LA (mit Kantenversiegelung) + Prozess / Ungespannt
+Auslieferzustand LA  (mit Kantenversiegelung) + Prozess / Gespannt,5A0E039,K,10
+69,ZZ ZIERBLENDE M. HEIZUNG ESL SILBER,460_460
+460_461,8,Epoxidschutzlack (ohne Kantenversiegelung) / Ungespannt
+Epoxidschutzlack (ohne Kantenversiegelung) / Gespannt,5A0E042,K,10
+70,ZZ ZIERBLENDE M. HEIZUNG ESL SILBER,460_462
+460_463,10,Epoxidschutzlack (ohne Kantenversiegelung) + Prozess / Ungespannt
+Epoxidschutzlack (ohne Kantenversiegelung) + Prozess / Gespannt,5A0E042,K,10
+72,ZZ ZIERBL. M. HEIZUNG PVD SILBER,465_465
+465_466,8,PVD-Beschichtung / Ungespannt
+PVD-Beschichtung / Gespannt,5A0E045,K,10
+73,ZZ ZIERBL. M. HEIZUNG PVD SILBER,465_467
+465_468,10,PVD-Beschichtung + Prozess / Ungespannt
+PVD-Beschichtung + Prozess / Gespannt,5A0E045,K,10
+75,ZZ ZIERBLENDE M. HEIZUNG  UV DC MATT,470_470
+470_471,8,UV Dualcure Haftvermittler / Ungespannt
+UV Dualcure Haftvermittler / Gespannt,5A0E047,K,10
+76,ZZ ZIERBLENDE M. HEIZUNG  UV DC MATT,470_472
+470_473,10,UV Dualcure Haftvermittler + Prozess / Ungespannt
+UV Dualcure Haftvermittler + Prozess / Gespannt,5A0E047,K,10
+78,ZZ ZIERBLENDE M. HEIZUNG GEL. UND GET.,475_475
+475_476,8,Gelasert und getempert / Ungespannt
+Gelasert und getempert / Gespannt,5A0E048,K,10
+79,ZZ ZIERBLENDE M. HEIZUNG GEL. UND GET.,475_477
+475_478,10,Gelasert und getempert + Prozess / Ungespannt
+Gelasert und getempert + Prozess / Gespannt,5A0E048,K,10
+81,ZZ ZIERBLENDE M. HEIZUNG LASERLACK SCHW.,480_480
+480_481,8,Laserlack  / Ungespannt
+Laserlack / Gespannt,5A0E049,K,10
+82,ZZ ZIERBLENDE M. HEIZUNG LASERLACK SCHW.,480_482
+480_483,10,Laserlack + Prozess / Ungespannt
+Laserlack + Prozess / Gespannt,5A0E049,K,10
+84,ROHTEIL ZIERBLENDE FRONT M. HEIZUNG,485_483
+485_485
+485_486,8,Spritzguss (mit Laschen) / Ungespannt
+Spritzguss / Ungespannt
+Spritzguss / Gespannt,5A0E050,K,10
+85,ROHTEIL ZIERBLENDE FRONT M. HEIZUNG,485_487
+485_488,10,Spritzguss + Prozess / Ungespannt
+Spritzguss + Prozess / Gespannt,5A0E050,K,10
+87,ZB ZIERBLENDE FRONT M. HEIZUNG SILBER
+TEMPERAUFNAHME,495_495,13,Überprüfung der Temperaufnahmen,8499606,F,5
+91,ZB ZIERBLENDE FRONT HZG SILBER LCI,510_510                                    510_511                                     ,10,Auslieferzustand LA (mit Kantenversiegelung) + Prozess / Gespannt
+Auslieferzustand LA  (mit Kantenversiegelung) + Prozess / Ungespannt,5A722D5,E,4
+93,ZIERBLENDE HZG ROHTEIL SG M. HEIZ  LCI,500_500                                      500_501                                      500_502,13,Spritzguss + Prozess /  Gespannt                                                                                                     Spritzguss + Prozess /  Ungespannt                                                                              Spritzguss (mit Laschen) / Ungespannt,5A8EE52,D,4
+95,ZZ ZIERBLENDE LASERLACK SCHW. LCI ,515_515                                    515_516                                     ,13,Laserlack + Prozess /  Gespannt                                                                                                         Laserlack + Prozess /  Ungespannt               ,5A8EE51,D,4
+97,ZZ ZIERBLENDE LASER AG/MSP  LCI,505_505                                    505_506                                     ,13,Gelasert + Prozess /  Gespannt                                                                                                     Gelasert + Prozess /  Ungespannt               ,5A8EE50,D,4
+98,ZZ ZIERBLENDE PRIMERN AG/MSP  LCI ,520_520                                    520_521                                     ,13,Geprimert + Prozess /  Gespannt                                                                                                     Geprimert + Prozess /  Ungespannt               ,5A8EE49,D,4
+100,ZZ ZIERBLENDE PVD SILBER LCI ,525_525                                    525_526                                     ,13,PVD-Beschichtung + Prozess /  Gespannt                                                                                                     PVD-Beschichtung + Prozess /  Ungespannt               ,5A8EE47,D,4
+102,ZZ ZIEBLENDE SCHUTZL. SILBER  LCI ,530_530                                    530_531                                     ,13,Schutzlack + Prozess /  Gespannt                                                                                                     Schutzlack + Prozess /  Ungespannt               ,5A8EE45,D,4
+118,ZB WINDLAUF OBEN,800_800,17,Kontur und Bohrungen,7953805,AD,15
+119,ZB WINDLAUF OBEN,801_800,17,Kontur und Bohrungen,2642443,A,2
+120,ZB WINDLAUF OBEN,810_810,3,Analyse 4 Bohrungen,7953805,T,12
+122,ZB HECKFENSTERRAHMEN,820_820,13,Kontur und Bohrungen  ,7932675,S,12
+123,ZB HECKFENSTERRAHMEN,820_820,13,Kontur und Bohrungen  (Messpunkte für Prozess),7932675,N,11
+126,LI ABDECKUNG WASSERRINNE,830_830,12,TMP 830: KOMPLETT- KONTUR + BESCHNITT,7932673,Q,6
+127,LI ABDECKUNG WASSERRINNE,830_831,5,TMP 831:  SERIE (FMK),7932673,Q,6
+129,RE ABDECKUNG WASSERRINNE,840_840,12,TMP 840: KOMPLETT- KONTUR + BESCHNITT,7932674,Q,6
+130,RE ABDECKUNG WASSERRINNE,840_841,5,TMP 841:  SERIE (FMK),7932674,Q,6
+132,LI SEITENRAHMEN AUSSEN,850_850,?,TMP 850:  Serien-Programm ,7954641,AG,22
+133,LI SEITENRAHMEN AUSSEN,850_851,45,TMP 851:  Serien-Programm Lang,7954641,AG,22
+134,LI SEITENRAHMEN AUSSEN,850_852,68,TMP 852: KOMPLETT- KONTUR + BESCHNITT (OFFLINE nur zur Analyse),7954641,AG,22
+137,RE SEITENRAHMEN AUSSEN,860_860,?,TMP 860: Serien-Programm ,7954642,AG,21
+138,RE SEITENRAHMEN AUSSEN,860_861,45,TMP 861: Serien-Programm Lang,7954642,AG,21
+139,RE SEITENRAHMEN AUSSEN,860_862,68,TMP 860: KOMPLETT- KONTUR + BESCHNITT  (OFFLINE nur zur Analyse),7954642,AG,21
+142,ZB LI FLECHTPROFIL DACHRAHMEN,900_900,13,TMP 900: SERIE nach TKB -( KONTUR + BESCHNITT + LOCHBILD),7954611,Z,12
+143,ZB LI FLECHTPROFIL DACHRAHMEN,900_901,18,TMP 901: KOMPLETT NACH MA - ( KONTUR + BESCHNITT + LOCHBILD),7954611,Z,12
+144,ZB LI FLECHTPROFIL DACHRAHMEN,900_902,10,TMP 902: KONTUR NACH MA - ( KONTUR),7954611,Z,12
+145,ZB RE FLECHTPROFIL DACHRAHMEN,950_950,13,TMP 950: SERIE nach TKB -( KONTUR + BESCHNITT + LOCHBILD),7954612,Z,12
+146,ZB RE FLECHTPROFIL DACHRAHMEN,950_951,18,TMP 951: KOMPLETT NACH MA - ( KONTUR + BESCHNITT + LOCHBILD),7954612,Z,12
+147,ZB RE FLECHTPROFIL DACHRAHMEN,950_952,10,TMP 952: KONTUR NACH MA - ( KONTUR),7954612,Z,12
+148,ZB WINDLAUF OBEN,1800_1800,16,Kontur und Bohrungen (Versuchsprojekt G70),7953805,I,6
+211,SGW_SCHUSSKANAL_LL_I20,2010,GOM,Netzschwert und Netzpositionierung,3006217,X,X
+219,LI ABDECKUNG WASSERRINNE,1830_1830,nan,Messaufnahme-Kontrollmessung,7932673,J,1
+220,RE ABDECKUNG WASSERRINNE,1840_1840,nan,Messaufnahme-Kontrollmessung,7932674,J,1
+221,ZB LI FLECHTPROFIL DACHRAHMEN,1900_1900,4,Messaufnahme-Kontrollmessung,7954611,P,1
+222,ZB RE FLECHTPROFIL DACHRAHMEN,1950_1950,4,Messaufnahme-Kontrollmessung,7954612,P,1

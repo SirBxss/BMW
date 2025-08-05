@@ -57,8 +57,8 @@ def convert_xlsm_to_csv(input_file, output_file, sheet_name=None, keep_columns=N
 
 # Example Usage
 if __name__ == "__main__":
-    input_xlsm = '/Users/amin/PycharmProjec/BMW/Data/I20/Inhalt_I20.xlsm'  # Replace with your XLSM file path
-    output_csv = '/Users/amin/PycharmProjec/BMW/Data/I20/output.csv'  # Replace with your desired CSV output path
+    input_xlsm = '/Users/amin/PycharmProject/BMW/Data/I20_RL/Inhalt_I20RL.xlsm'  # Replace with your XLSM file path
+    output_csv = '/Users/amin/PycharmProject/BMW/Data/I20_RL/output.csv'  # Replace with your desired CSV output path
 
     # Step 1: List available sheets
     print("Listing available sheets...")
